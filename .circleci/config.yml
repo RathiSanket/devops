@@ -24,6 +24,7 @@ jobs:
             pip install --upgrade pip
             sudo apt-get update
             sudo apt-get install libcups2-dev
+            sudo apt-get install libcairo2-dev pkg-config python3-dev
             pip install -r requirements.txt
       #3 Run coding convention software plus tester.
       - run:
