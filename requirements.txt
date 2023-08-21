@@ -110,7 +110,7 @@ six==1.16.0
 soupsieve==2.3.1
 ssh-import-id==5.11
 sympy==1.9
-systemd-python==234
+terminado==0.13.1
 testpath==0.5.0
 tomli==2.0.1
 tornado==6.1
