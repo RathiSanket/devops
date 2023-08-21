@@ -19,3 +19,6 @@ class TestCalculator:
 
     def test_mul(self):
         assert 100 == calculator.mul(10, 10)
+
+    def test_mul2(self):
+        assert 20 == calculator.mul(2, 10)
